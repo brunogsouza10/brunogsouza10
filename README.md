@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @brunogsouza10!
 - 👀 Meu foco no momento é aprender POO, Banco de Dados e Git...A linguagem que escolhi para aprender POO é a linguagem Java. 
-            < img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" / >
+          
           
 - 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FMU.
 - 💞️ Este github é sobre meus estudos e progressos...
@@ -12,3 +12,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsouza10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+
+            < img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" / >
+          
