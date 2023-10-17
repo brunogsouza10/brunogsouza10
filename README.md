@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @brunogsouza10!
-- 👀 Meu foco no momento é aprender POO, Banco de Dados e Git...A linguagem que escolhi para aprender POO é a linguagem Java.        
+- 👀 Acredito que tenho adquirido uma boa base em lógica de programação em 10 meses de estudo. Meu foco no momento é aprender POO, Banco de Dados e Git, e também tudo que diz respeito as tecnologias de desenvolvimento back-end. A linguagem que escolhi para aprender POO é a linguagem Java.        
 - 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FMU.
 - 💞️ Este github é sobre meus estudos e progressos...
 - 📫 Você pode me achar no insta @brunogsouza10 ou me enviar um email no brunogsouza10dev@gmail.com
