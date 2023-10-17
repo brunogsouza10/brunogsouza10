@@ -1,5 +1,7 @@
 - 👋 Olá, eu sou o @brunogsouza10!
-- 👀 Meu foco no momento é aprender POO, Banco de Dados e Git...A linguagem que escolhi para aprender POO é a linguagem Java.
+- 👀 Meu foco no momento é aprender POO, Banco de Dados e Git...A linguagem que escolhi para aprender POO é a linguagem Java. 
+            < img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" / >
+          
 - 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FMU.
 - 💞️ Este github é sobre meus estudos e progressos...
 - 📫 Você pode me achar no insta @brunogsouza10 ou me enviar um email no brunogsouza10dev@gmail.com
