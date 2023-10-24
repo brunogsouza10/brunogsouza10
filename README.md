@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋I'm_from_Brazil+👋;Welcome!)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,8 +12,7 @@
         <p>Olá, eu sou brunogsouza10. Sou um entusiasta da programação com uma paixão por desenvolvimento web e mobile.</p>
         <p>Atualmente, estou aprendendo e explorando várias tecnologias para criar soluções inovadoras.</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋I'm_from_Brazil+👋;Welcome!">
-    </div>
-
+   
     <div align="center">
         <h2>🛠️ Ferramentas e Tecnologias</h2>
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
