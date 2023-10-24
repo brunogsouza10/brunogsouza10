@@ -1,8 +1,4 @@
-- 👋 Hi there!
-  - This github is about all my studies. Maybe you'll find some junior errors in some code because i'm just student yet.
-  - I'm actually learning OOP and Data Bases.
-  - My goal is to get a job in some dollar or euro country $$ working like a remote employee in Brazil.
-    Bye for Now!
+
 
 <div>
   <a href="https://github.com/brunogsouza10">
