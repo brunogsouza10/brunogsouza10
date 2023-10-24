@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <h1>👋 Bem-vindo ao meu Perfil!</h1>
+        <h1>👋 Hello World!</h1>
         <p>Hi there! I'm Bruno and actually i'm student. This github is about my studies.  I hope so that a day I'll to become a programmer.</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋I'm_from_Brazil+👋;Welcome!">
          <div align="center">
