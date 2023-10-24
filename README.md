@@ -11,7 +11,7 @@
         <p>Hi there! I'm Bruno and actually i'm student. This github is about my studies.  I hope so that a day I'll to become a programmer.</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋I'm_from_Brazil+👋;Welcome!">
          <div align="center">
-        <h2>🌱 Estou aprendendo</h2>
+        <h2>🌱 [I'm learning]</h2>
        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift">   
         <!-- Adicione mais ícones de suas tecnologias aqui -->
