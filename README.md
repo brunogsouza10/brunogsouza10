@@ -8,12 +8,11 @@
 <body>
     <div align="center">
         <h1>👋 Bem-vindo ao meu Perfil!</h1>
-        <p>Olá, eu sou brunogsouza10. Sou um entusiasta da programação com uma paixão por desenvolvimento web e mobile.</p>
-        <p>Atualmente, estou aprendendo e explorando várias tecnologias para criar soluções inovadoras.</p>
+        <p>Hi there! I'm Bruno and actually i'm student. This github is about my studies.  I hope so that a day I'll to become a programmer.</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋I'm_from_Brazil+👋;Welcome!">
          <div align="center">
         <h2>🛠️ Ferramentas e Tecnologias</h2>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">   
         <!-- Adicione mais ícones de suas tecnologias aqui -->
