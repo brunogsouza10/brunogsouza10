@@ -22,11 +22,11 @@
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">
         <!-- Adicione mais ícones das tecnologias que está aprendendo aqui -->
           <div align="center">
-        <h2>📫 Contato</h2>
+        <h2>📫 Contact</h2>
         <p>Você pode me encontrar em:</p>
-        <a href="https://github.com/brunogsouza10">GitHub</a> |
-        <a href="https://linkedin.com/in/brunogsouza10">LinkedIn</a> |
-        <a href="mailto:brunogsouza10dev@gmail.com">Email</a>
+<a href="https://github.com/brunogsouza10" class="animated-button">GitHub</a> |
+<a href="https://linkedin.com/in/brunogsouza10" class="animated-button">LinkedIn</a> |
+<a href="mailto:brunogsouza10dev@gmail.com" class="animated-button">Email</a>
     </div>
 </body>
 </html>
