@@ -25,7 +25,7 @@
         <h2>📫 Contact</h2>
         <p>Você pode me encontrar em:</p>
 <a href="https://github.com/brunogsouza10" class="animated-button">GitHub</a> |
-<a href="https://linkedin.com/in/brunogsouza10" class="animated-button">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/bruno-gomes-de-souza-21a5aa276/" class="animated-button">LinkedIn</a> |
 <a href="mailto:brunogsouza10dev@gmail.com" class="animated-button">Email</a>|
 <a href="https://instagram.com/brunogsouza10" class="animated-button">Instagram</a> |              
     </div>
