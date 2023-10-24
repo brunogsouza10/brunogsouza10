@@ -23,7 +23,7 @@
         <!-- Adicione mais ícones das tecnologias que está aprendendo aqui -->
           <div align="center">
         <h2>📫 Contact</h2>
-        <p>Você pode me encontrar em:</p>
+        <p>You'll find me:</p>
 <a href="https://github.com/brunogsouza10" class="animated-button">GitHub</a> |
 <a href="https://www.linkedin.com/in/bruno-gomes-de-souza-21a5aa276/" class="animated-button">LinkedIn</a> |
 <a href="mailto:brunogsouza10dev@gmail.com" class="animated-button">Email</a>|
