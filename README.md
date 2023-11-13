@@ -8,7 +8,7 @@
 <body>
     <div align="center">
         <h1>👋 Hello World!</h1>
-        <p>Hi there! I'm Bruno and currently i'm student. This github is about my studies.  I hope to become a programmer soon.</p>
+        <p>Meu nome é Bruno, tenho 38 anos, e sou um profissional da educação que busca migrar de carreira. Estou finalizando o segundo semestre do curso de Análise e Desenvolvimento de Sistemas da FMU. Faço cursos avulsos da área, focados na linguagem Java. Tenho conhecimentos básicos em POO, e atualmente comecei a estudar a linguagem SQL utilizando o MySQL. Atualmente também me dedico a estudos de versionamento de códigos, como o GitHub.</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;🇧🇷I'm_from_Brazil+🇧🇷;Welcome!">
          <div align="center">
         <h2>🌱 I'm learning</h2>
