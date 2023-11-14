@@ -8,7 +8,7 @@
 <body>
     <div align="center">
         <h1>👋 Hello World!</h1>
-        <p>Meu nome é Bruno, tenho 38 anos, e sou um profissional da educação que busca migrar de carreira. Estou finalizando o segundo semestre do curso de Análise e Desenvolvimento de Sistemas da FMU. Faço cursos avulsos da área, focados na linguagem Java. Tenho conhecimentos básicos em POO, e atualmente comecei a estudar a linguagem SQL utilizando o MySQL. Atualmente também me dedico a estudos de versionamento de códigos, como o GitHub.</p>
+        <p>Meu nome é Bruno, tenho 38 anos, e sou um profissional da educação que busca migrar de carreira. Estou finalizando o segundo semestre do curso de Análise e Desenvolvimento de Sistemas da FMU. Faço cursos avulsos da área, focados na linguagem Java. Aprendi Lógica de Programação com paradigmas estruturados e com paradigamas orientados a objetos. Atualmente comecei a estudar Banco de Dados com linguagem SQL utilizando o MySQL. Atualmente também me dedico a estudos de versionamento de códigos aqui no GitHub, sendo que os códigos aqui encontrados são as trilhas de meus estudos. Sejam bem-vindos!</p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;🇧🇷I'm_from_Brazil+🇧🇷;Welcome!">
          <div align="center">
         <h2>🌱 I'm learning</h2>
