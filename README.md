@@ -8,7 +8,7 @@
 <body>
     <div align="center">
         <h1>👋 Hello World!</h1>
-        <p> Olá, meu nome é Bruno. Atualmente sou estudante do curso superior técnico de Análise de Desenvolvimento de Sistemas. Possuo conhecimentos em algoritmos, java, springboot e mysql. </p>
+        <p> Olá, meu nome é Bruno. Atualmente sou estudante do curso superior técnico de Análise e Desenvolvimento de Sistemas. Possuo conhecimentos em algoritmos, java, springboot e mysql. </p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;🇧🇷I'm_from_Brazil+🇧🇷;Welcome!">
          <div align="center">
         <h2>🌱 I'm learning</h2>
