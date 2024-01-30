@@ -8,7 +8,7 @@
 <body>
     <div align="center">
         <h1>👋 Hello World!</h1>
-        <p> Olá, meu nome é Bruno. Atualmente sou estudante do curso superior técnico de Análise e Desenvolvimento de Sistemas. Meu github é um diário de estudos e projetos pessoais que venho desenvolvendo ao longo da minha trajetória como estudante de tecnologia. Tenho predileção pela área de desenvolvimento back-end, além de me interessar bastante por banco de dados, segurança da informação e redes. </p>
+        <p> Olá, meu nome é Bruno. Atualmente sou estudante do curso superior técnico de Análise e Desenvolvimento de Sistemas. Meu github é um diário de estudos e projetos pessoais que venho desenvolvendo ao longo da minha trajetória como estudante de tecnologia. Tenho predileção pela área de desenvolvimento como back-end, além de me interessar bastante por banco de dados, segurança da informação e redes. </p>
         <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;🇧🇷I'm_from_Brazil+🇧🇷;Welcome!">
          <div align="center">
         <h2>🌱 I'm learning</h2>
